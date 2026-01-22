@@ -1,4 +1,4 @@
-# Race Multiplayer
+# Race Multiplayer 🏁
 
 This project implements a multiplayer virtual reality (VR) racing game with custom locomotion mechanics for moving and jumping.
 
